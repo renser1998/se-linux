@@ -19,6 +19,7 @@
 ![alt text](pic1/3_1.png)
 
  Установленный модуль nginx
+ 
 ![alt text](pic1/3_2.png)
 
 # Task 2
