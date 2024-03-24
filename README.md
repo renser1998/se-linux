@@ -2,7 +2,9 @@
 ## 1. Способ. Установили флаг setsebool -P nis_enabled 1 
 ![alt text](pic1/1_2.png)
  Проверили статус сервиса
+ 
 ![alt text](pic1/1_3.png)
+
  Открытый порт 4881
 ![alt text](pic1/1_4.png)
 
